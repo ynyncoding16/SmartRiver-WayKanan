@@ -1,7 +1,7 @@
 package com.mycompany.smartriverwaykanan;
 
 import java.util.Scanner;
-
+// Tugas Gabungan LKP 2-5
 public class SmartRiverWayKanan {
 
     // Overloading 1: Parameter String
